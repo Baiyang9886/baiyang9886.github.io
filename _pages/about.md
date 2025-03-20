@@ -54,15 +54,15 @@ IEEE Transactions on Intelligent Transportation Systems, IEEE Transactions on Ve
 
 科研项目
 ------
-2022~2024, the Agency for Science, Technology and Research (A∗STAR), Singapore, under Advanced Manufacturing and Engineering (AME) Young Individual Research, Grant A2084c0156. （参与者）
-2022~2024, the Ministry of Education (MOE), Singapore, under the Tier 2, Grant MOE-T2EP50222-0002. （参与者）
-2020~2021年, 国家自然科学基金面上项目：融合生理状态感知的可穿戴上肢康复外骨骼关键技术研究，项目批准号：52075177。（参与者）
-2018~2019年, 中央高校基本科研项目：人工智能和生理信息融合驱动的康复机器人，项目编号：x2jqB5151730。（参与者）
-2018~2020年, 广东省高校基础研究及应用基础研究重点项目：偏瘫上肢康复训练机器人关键技术研究，项目编号2018KZDXM002。 （参与者）
-2018~2019年, 国家自然科学基金面上项目：基于人体自供能的下肢柔性助力外骨骼的原理及设计方法研究，项目批准号：51575188。（参与者）
-2017~2018年, 广州市产学研协同创新重大专项：智能化种鸡成套饲养设备，项目编号：201508020025。（参与者）
-2017~2018年, 与广州通达汽车电子有限公司合作项目：营运客车ADAS系统关键技术研究与开发，项目编号为x2jqD8174070。（参与者）
-2016~2018年, 与日立（中国）研究开发有限公司的合作项目：图像解析和MES数据结合的技术，项目编号：x2jqD8164480。（参与者）
+1. 2022~2024, the Agency for Science, Technology and Research (A∗STAR), Singapore, under Advanced Manufacturing and Engineering (AME) Young Individual Research, Grant A2084c0156. （参与者）
+2. 2022~2024, the Ministry of Education (MOE), Singapore, under the Tier 2, Grant MOE-T2EP50222-0002. （参与者）
+3. 2020~2021年, 国家自然科学基金面上项目：融合生理状态感知的可穿戴上肢康复外骨骼关键技术研究，项目批准号：52075177。（参与者）
+4. 2018~2019年, 中央高校基本科研项目：人工智能和生理信息融合驱动的康复机器人，项目编号：x2jqB5151730。（参与者）
+5. 2018~2020年, 广东省高校基础研究及应用基础研究重点项目：偏瘫上肢康复训练机器人关键技术研究，项目编号2018KZDXM002。 （参与者）
+6. 2018~2019年, 国家自然科学基金面上项目：基于人体自供能的下肢柔性助力外骨骼的原理及设计方法研究，项目批准号：51575188。（参与者）
+7. 2017~2018年, 广州市产学研协同创新重大专项：智能化种鸡成套饲养设备，项目编号：201508020025。（参与者）
+8. 2017~2018年, 与广州通达汽车电子有限公司合作项目：营运客车ADAS系统关键技术研究与开发，项目编号为x2jqD8174070。（参与者）
+9. 2016~2018年, 与日立（中国）研究开发有限公司的合作项目：图像解析和MES数据结合的技术，项目编号：x2jqD8164480。（参与者）
 
 欢迎您的加入
 ------
