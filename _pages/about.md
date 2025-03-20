@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+杨烈，特聘教授，南昌大学高层次引进人才，主要研究方向有：深度学习，计算集视觉，自动驾驶系统的智能感知，脑电信号解码和脑机接口技术等。近五年发表SCI论文20余篇，其中以第一作者身份共发表SCI检索论文7篇，并获得已授权的发明专利8项。在博士期间参与了国家自然科学基金2项，参与省部级项目2项；在南洋理工大学从事博士后研究期间参与了国际合作项目1项，国家级项目1项。曾获国家奖学金，校长奖学金，校特等奖学金，校一等奖学金。曾获2021世界机器人大赛-BCI脑控机器人大赛，全国总决赛二等奖，并且被评为了“广东省优秀学生”。
 
 A data-driven personal website
 ======
