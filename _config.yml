@@ -22,7 +22,7 @@ repository               : "Baiyang9886/baiyang9886.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Picture_of_YangLie.png"
+  avatar           : "My-picture.png"
   name             : "杨烈（Lie Yang）"
   pronouns         : # example: "she/her"  
   bio              : "南昌大学先进制造学院特聘教授，主要研究方向为：深度学习、计算机视觉、自动驾驶系统的智能感知、脑电信号解码与脑-机接口技术等。"
