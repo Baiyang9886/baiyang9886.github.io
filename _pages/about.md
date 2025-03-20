@@ -20,14 +20,22 @@ redirect_from:
 学术兼职
 ======
 客座编辑：
-
-Lead Guest Editor, Special Issue on “Application of Deep Learning in Intelligent Machines” at MDPI Machines, 2023-2024.
-
-Lead Guest Editor, Special Issue on “The Application of Deep Learning in Intelligent Vehicle Perception Systems” at MDPI Vehicles, 2024-2025.
+==
+1. Lead Guest Editor, Special Issue on “Application of Deep Learning in Intelligent Machines” at MDPI Machines, 2023-2024.
+2. Lead Guest Editor, Special Issue on “The Application of Deep Learning in Intelligent Vehicle Perception Systems” at MDPI Vehicles, 2024-2025.
 
 参与审稿的主要期刊有：
-
-IEEE Transactions on Intelligent Transportation Systems, IEEE Transactions on Vehicular Technology, IEEE Transactions on Intelligent Vehicles, IEEE Transactions on Systems, Man and Cybernetics: Systems, IEEE Transactions on Neural Systems and Rehabilitation Engineering, IEEE Journal of Biomedical and Health Informatics, Journal of Neural Engineering, IEEE Transactions on Neural Networks and Learning Systems, IEEE/CAA Journal of Automatica Sinica, Measurement Science and Technology, Assembly Automation等。
+1. IEEE Transactions on Intelligent Transportation Systems,
+2. IEEE Transactions on Vehicular Technology,
+3. IEEE Transactions on Intelligent Vehicles,
+4. IEEE Transactions on Systems, Man and Cybernetics: Systems,
+5. IEEE Transactions on Neural Systems and Rehabilitation Engineering,
+6. IEEE Journal of Biomedical and Health Informatics,
+7. Journal of Neural Engineering,
+8. IEEE Transactions on Neural Networks and Learning Systems,
+9. IEEE/CAA Journal of Automatica Sinica,
+10. Measurement Science and Technology,
+11. Assembly Automation等。
 
 近五年的代表性论文
 ------
