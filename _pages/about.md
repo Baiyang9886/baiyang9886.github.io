@@ -20,7 +20,7 @@ redirect_from:
 学术兼职
 ======
 客座编辑：
-==
+---
 1. Lead Guest Editor, Special Issue on “Application of Deep Learning in Intelligent Machines” at MDPI Machines, 2023-2024.
 2. Lead Guest Editor, Special Issue on “The Application of Deep Learning in Intelligent Vehicle Perception Systems” at MDPI Vehicles, 2024-2025.
 
