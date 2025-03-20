@@ -10,11 +10,15 @@ redirect_from:
 杨烈，特聘教授，南昌大学高层次人才，主要研究方向有：深度学习，计算集视觉，自动驾驶系统的智能感知，脑电信号解码和脑机接口技术等。2021年毕业于华南理工大学，获得工学博士学位。2022年3月加入海南大学计算机科学与技术学院，被聘为特聘副教授。2022年10月赴新加坡南洋理工大学，机械与宇航工程学院（MAE）从事博士后研究。2025年2月初回国，加入南昌大学先进制造学院，被聘为特聘教授。
 近五年发表SCI论文20余篇，其中以第一作者身份共发表SCI检索论文7篇，并获得已授权的发明专利8项。在博士期间参与了国家自然科学基金2项，参与省部级项目2项；在南洋理工大学从事博士后研究期间参与了国际合作项目2项。曾获国家奖学金，校长奖学金，校特等奖学金，校一等奖学金。2021年9月获得世界机器人大赛-BCI脑控机器人大赛，全国总决赛二等奖，2021年底被评为“广东省优秀学生”。
 
-A data-driven personal website
+学术兼职
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+客座编辑：
+Lead Guest Editor, Special Issue on “Application of Deep Learning in Intelligent Machines” at MDPI Machines, 2023-2024.
+Lead Guest Editor, Special Issue on “The Application of Deep Learning in Intelligent Vehicle Perception Systems” at MDPI Vehicles, 2024-2025.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+参与审稿的主要期刊有：
+IEEE Transactions on Intelligent Transportation Systems, IEEE Transactions on Vehicular Technology, IEEE Transactions on Intelligent Vehicles, IEEE Transactions on Systems, Man and Cybernetics: Systems, IEEE Transactions on Neural Systems and Rehabilitation Engineering, IEEE Journal of Biomedical and Health Informatics, Journal of Neural Engineering, IEEE Transactions on Neural Networks and Learning Systems, IEEE/CAA Journal of Automatica Sinica, Measurement Science and Technology, Assembly Automation, etc.
+
 
 Getting started
 ======
