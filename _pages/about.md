@@ -20,7 +20,7 @@ Lead Guest Editor, Special Issue on “The Application of Deep Learning in Intel
 
 参与审稿的主要期刊有：
 
-IEEE Transactions on Intelligent Transportation Systems, IEEE Transactions on Vehicular Technology, IEEE Transactions on Intelligent Vehicles, IEEE Transactions on Systems, Man and Cybernetics: Systems, IEEE Transactions on Neural Systems and Rehabilitation Engineering, IEEE Journal of Biomedical and Health Informatics, Journal of Neural Engineering, IEEE Transactions on Neural Networks and Learning Systems, IEEE/CAA Journal of Automatica Sinica, Measurement Science and Technology, Assembly Automation, etc.
+IEEE Transactions on Intelligent Transportation Systems, IEEE Transactions on Vehicular Technology, IEEE Transactions on Intelligent Vehicles, IEEE Transactions on Systems, Man and Cybernetics: Systems, IEEE Transactions on Neural Systems and Rehabilitation Engineering, IEEE Journal of Biomedical and Health Informatics, Journal of Neural Engineering, IEEE Transactions on Neural Networks and Learning Systems, IEEE/CAA Journal of Automatica Sinica, Measurement Science and Technology, Assembly Automation等。
 
 
 团队的主要研究方向
