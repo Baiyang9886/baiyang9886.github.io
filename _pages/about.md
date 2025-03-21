@@ -8,8 +8,16 @@ redirect_from:
 ---
 
 杨烈，特聘教授，南昌大学高层次人才，主要研究方向有：深度学习，计算集视觉，自动驾驶系统的智能感知，脑电信号解码和脑机接口技术等。2021年毕业于华南理工大学，获得工学博士学位。2022年3月加入海南大学计算机科学与技术学院，被聘为特聘副教授。2022年10月赴新加坡南洋理工大学机械与宇航工程学院（MAE）从事博士后研究。2025年2月初回国，加入南昌大学先进制造学院，被聘为特聘教授。
-近五年发表SCI论文20余篇，其中以第一作者身份共发表SCI检索论文7篇，并获得已授权的发明专利8项。在博士期间参与了国家自然科学基金2项，参与省部级项目2项；在南洋理工大学从事博士后研究期间参与了国际合作项目2项。曾获国家奖学金，校长奖学金，校特等奖学金，校一等奖学金。2021年9月获得世界机器人大赛-BCI脑控机器人大赛，全国总决赛二等奖，2021年底被评为“广东省优秀学生”。
+近五年发表SCI论文20余篇，其中以第一作者身份发表SCI论文7篇，并获得已授权的发明专利8项。在博士期间参与了国家自然科学基金2项，参与省部级项目2项；在南洋理工大学从事博士后研究期间参与了国际合作项目2项。曾获国家奖学金，校长奖学金，校特等奖学金，校一等奖学金。2021年9月获得世界机器人大赛-BCI脑控机器人大赛，全国总决赛二等奖，2021年底被评为“广东省优秀学生”。
 
+欢迎您的加入
+------
+欢迎具自动化、机械、计算机、电子信息等专业背景，并且对本团建的研究方向感兴趣的青年老师、博士后、博士生、硕士生、本科同学与我联系~ 欢迎大家过来进行学术交流，欢迎加入本课题组！
+
+
+地址：江西省南昌市红谷滩新区学府大道999号南昌大学前湖校区机电楼D509  
+学校邮箱：lie.yang@ncu.edu.cn  
+个人邮箱：lieyangme@outlook.com  
 
 团队的主要研究方向
 ======
@@ -23,7 +31,7 @@ redirect_from:
 1. Lead Guest Editor, Special Issue on “Application of Deep Learning in Intelligent Machines” at MDPI Machines, 2023-2024.
 2. Lead Guest Editor, Special Issue on “The Application of Deep Learning in Intelligent Vehicle Perception Systems” at MDPI Vehicles, 2024-2025.
 
-**参与审稿的主要期刊有：**
+**参与审稿的主要期刊：**
 1. IEEE Transactions on Intelligent Transportation Systems,
 2. IEEE Transactions on Vehicular Technology,
 3. IEEE Transactions on Intelligent Vehicles,
@@ -33,8 +41,7 @@ redirect_from:
 7. Journal of Neural Engineering,
 8. IEEE Transactions on Neural Networks and Learning Systems,
 9. IEEE/CAA Journal of Automatica Sinica,
-10. Measurement Science and Technology,
-11. Assembly Automation等。
+10. Measurement Science and Technology等。
 
 近五年的代表性论文
 ------
@@ -71,11 +78,3 @@ redirect_from:
 8. 2017~2018年, 与广州通达汽车电子有限公司合作项目：营运客车ADAS系统关键技术研究与开发，项目编号为x2jqD8174070。（参与者）
 9. 2016~2018年, 与日立（中国）研究开发有限公司的合作项目：图像解析和MES数据结合的技术，项目编号：x2jqD8164480。（参与者）
 
-欢迎您的加入
-------
-欢迎具自动化、机械、计算机、电子信息等专业背景，并且对本团建的研究方向感兴趣的青年老师、博士后、博士生、硕士生、本科同学与我联系~ 欢迎大家过来进行学术交流，欢迎加入本课题组！
-
-
-地址：江西省南昌市红谷滩新区学府大道999号南昌大学前湖校区机电楼D509  
-学校邮箱：lie.yang@ncu.edu.cn  
-个人邮箱：lieyangme@outlook.com  
