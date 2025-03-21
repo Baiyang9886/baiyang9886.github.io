@@ -64,7 +64,7 @@ redirect_from:
 17.	Li Jingyuan, Yang Lie, Lv Chen, Yuan Chu, and Yahui Liu. GLF-STAF: A Global-Local-Facial Spatio-Temporal Attention Fusion Approach for Driver Emotion Recognition. IEEE Transactions on Consumer Electronics, DOI:10.1109/TCE.2025.3540321, IF=4.3, 中科院二区.
 18.	Lijun Liu, Lie Yang, Mengjie Zhu, Liqiang Zou, Chen Lv, Hui Ye, Machine Learning-Driven Predictive Modeling for Lipid Oxidation Stability in Emulsions: A Smart Food Safety Strategy, Trends in Food Science & Technology, 2025, 104972, ISSN 0924-2244, IF=15.1, 中科院一区，top 期刊.
 19.	 Hao Yang, Yanxin Zhou, Jingda Wu, Haochen Liu, Lie Yang and Chen Lv, "Human-Guided Continual Learning for Personalized Decision-Making of Autonomous Driving," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2024.3524609，IF=7.9, 中科院一区，top期刊.
-20.	Yan Wang, Henglai Wei, Lie Yang, Bin-Bin Hu, Chen Lv, “A Review of Dynamic State Estimation for the Neighborhood System of Connected Vehicles”, SAE International Journal of Vehicle Dynamics, Stability, and NVH, 2023, 7(10-07-03-0023).
+20.	Yan Wang, Henglai Wei, Lie Yang, Bin-Bin Hu, Chen Lv, “A Review of Dynamic State Estimation for the Neighborhood System of Connected Vehicles”, SAE International Journal of Vehicle Dynamics, Stability, and NVH, 2023, 7(10-07-03-0023),IF=2.9,中科院二区.
 
 科研项目
 ------
