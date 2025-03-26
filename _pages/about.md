@@ -65,7 +65,7 @@ redirect_from:
 18.	Lijun Liu, Lie Yang, Mengjie Zhu, Liqiang Zou, Chen Lv, Hui Ye, Machine Learning-Driven Predictive Modeling for Lipid Oxidation Stability in Emulsions: A Smart Food Safety Strategy, Trends in Food Science & Technology, 2025, 104972, ISSN 0924-2244, IF=15.1, 中科院一区，top 期刊.
 19.	 Hao Yang, Yanxin Zhou, Jingda Wu, Haochen Liu, Lie Yang and Chen Lv, "Human-Guided Continual Learning for Personalized Decision-Making of Autonomous Driving," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2024.3524609，IF=7.9, 中科院一区，top期刊.
 20.	Yan Wang, Henglai Wei, Lie Yang, Bin-Bin Hu, Chen Lv, “A Review of Dynamic State Estimation for the Neighborhood System of Connected Vehicles”, SAE International Journal of Vehicle Dynamics, Stability, and NVH, 2023, 7(10-07-03-0023),IF=2.9,中科院二区.
-21.	Li, Jing, Jingyuan Li, Guo Yang, Lie Yang(通讯作者), Haozhuang Chi, and Lichao Yang. 2025. "Applications of Large Language Models and Multimodal Large Models in Autonomous Driving: A Comprehensive Review" Drones 9, no. 4: 238. https://doi.org/10.3390/drones9040238，IF=4.4，中科院三区.
+21.	Li, Jing, Jingyuan Li, Guo Yang, Lie Yang(通讯作者), Haozhuang Chi, and Lichao Yang. 2025. "Applications of Large Language Models and Multimodal Large Models in Autonomous Driving: A Comprehensive Review" Drones 9, no. 4: 238. https://doi.org/10.3390/drones9040238, IF=4.4，中科院三区.
 22.	Yi-Fan Kang, Lie Yang, Kai Xu, Bin-Bin Hu, Lan-Jun Cai, Yin-Hao Liu, Xiang Lu, A lightweight intelligent laryngeal cancer detection system for rural areas, American Journal of Otolaryngology, Volume 45, Issue 6, 2024, 104474, ISSN 0196-0709, IF=1.8,中科院三区.
 
 科研项目
