@@ -67,6 +67,7 @@ redirect_from:
 20.	Yan Wang, Henglai Wei, Lie Yang, Bin-Bin Hu, Chen Lv, “A Review of Dynamic State Estimation for the Neighborhood System of Connected Vehicles”, SAE International Journal of Vehicle Dynamics, Stability, and NVH, 2023, 7(10-07-03-0023),IF=2.9,中科院二区.
 21.	Li, Jing, Jingyuan Li, Guo Yang, Lie Yang(通讯作者), Haozhuang Chi, and Lichao Yang. 2025. "Applications of Large Language Models and Multimodal Large Models in Autonomous Driving: A Comprehensive Review" Drones 9, no. 4: 238. IF=4.4，中科院三区.
 22.	Yi-Fan Kang, Lie Yang, Kai Xu, Bin-Bin Hu, Lan-Jun Cai, Yin-Hao Liu, Xiang Lu, A lightweight intelligent laryngeal cancer detection system for rural areas, American Journal of Otolaryngology, Volume 45, Issue 6, 2024, 104474, ISSN 0196-0709, IF=1.8,中科院三区.
+23.	Liu Qingchao, Chen Siqi, Liu Guoqing, Yang Lie(通讯作者), Yuan Quan, Cai Yingfeng, and Chen Long (2025). Dual-perspective safety driver secondary task detection method based on swin-transformer and cross-attention. Advanced Engineering Informatics, 65, 103320, IF=8.0, 中科院一区, top期刊.
 
 科研项目
 ------
