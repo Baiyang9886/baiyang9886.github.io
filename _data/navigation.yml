@@ -17,8 +17,8 @@ main:
   #- title: "Teaching"
   #  url: /teaching/    
     
-  #- title: "团队成员"
-  #  url: /portfolio/
+  - title: "团队成员"
+    url: /portfolio/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
