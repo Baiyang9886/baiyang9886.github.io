@@ -52,7 +52,7 @@ redirect_from:
 5.	Lie Yang, Yonghao Song, Ke Ma, Enze Su, Longhan Xie, “A Novel Motor Imagery EEG Decoding Method Based on Feature Separation”， Journal of Neural Engineering, 2021, Vol 18, 036022，IF=3.7，中科院二区. 
 6.	Lie Yang, Yonghao Song, Xueyu Jia, Ke Ma, and Longhan Xie, “Two-Branch 3D Convolutional Neural Network for Motor Imagery EEG decoding”， Journal of Neural Engineering, 2021, Vol 18, 0460c7， IF=3.7，中科院二区. 
 7.	Lie Yang, Guanghua Hu, Yonghao Song, Guofeng Li, Longhan Xie， “Intelligent video analysis: A Pedestrian trajectory extraction method for the whole indoor space without blind areas”, Computer Vision and Image Understanding, Vol196, 2020, 102968 , IF=4.3, 中科院三区. 
-8.	Ziyang Zhang, Lie Yang, Chen Lv. “Swin Transformer Based Driver Distraction Detection with High Discriminative Feature Learning”, Vehicles， 2024.
+8.	Ziyang Zhang, Lie Yang, Chen Lv. “Swin Transformer Based Driver Distraction Detection with High Discriminative Feature Learning”, Vehicles, 2024.
 9.	Yonghao Song, Siqi Cai, Lie Yang, Guofeng Li, Weifeng Wu, Longhan Xie, “A Practical EEG-based Human-Machine Interface to Online Control an Upper-Limb Assist Robot”，Frontiers in Neurorobotics， 2020.07, Vol 14, IF=2.65， 中科院三区.
 10.	Guo Yang, Yong Zhong, Lie Yang, Ruxu Du,“Fault Detection of Harmonic Drive Using Multiscale Convolutional Neural Network”， IEEE Transactions on Instrumentation and Measurement, 2020.09, Vol 70, 3502411, IF = 4.016, 中科院二区. 
 11.	Guo Yang, Yong Zhong, Lie Yang, Ruxu Du, “Fault Diagnosis of Harmonic Drive with Imbalanced Data Using Generative Adversarial Network”， IEEE Transactions on Instrumentation and Measurement, 2021.06, Vol 70, 3519911, IF = 4.016, 中科院二区.
