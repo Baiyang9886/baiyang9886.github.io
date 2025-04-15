@@ -11,23 +11,23 @@ main:
   #- title: "Publications"
   #  url: /publications/
 
-  #- title: "Academic Service"
-  #  url: /talks/    
-
   #- title: "Teaching"
   #  url: /teaching/    
     
-  #- title: "团队成员"
-  #  url: /portfolio/
-        
+  - title: "团队成员"
+   url: /portfolio/
+
+  - title: "研究方向"
+   url: /talks/    
+
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  #- title: "CV"
-  #  url: /cv/
+  - title: "科研成果"
+   url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
     
-  #- title: "Guide"
-  #  url: /markdown/
+  - title: "学术兼职"
+   url: /markdown/
