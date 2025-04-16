@@ -70,6 +70,8 @@ redirect_from:
 23.	Yi-Fan Kang, Lie Yang, Yi-Fan Hu, Kai Xu, Lan-Jun Cai, Bin-Bin Hu, Xiang Lu (2025). Self‐Attention Mechanisms‐Based Laryngoscopy Image Classification Technique for Laryngeal Cancer Detection. Head & Neck.IF=2.4, 中科院三区.
 24.	Liu Qingchao, Chen Siqi, Liu Guoqing, Yang Lie(通讯作者), Yuan Quan, Cai Yingfeng, and Chen Long (2025). Dual-perspective safety driver secondary task detection method based on swin-transformer and cross-attention. Advanced Engineering Informatics, 65, 103320, IF=8.0, 中科院一区, top期刊.
 
+25.	kkkkk
+
 科研项目
 ------
 1. 2022~2024, the Agency for Science, Technology and Research (A∗STAR), Singapore, under Advanced Manufacturing and Engineering (AME) Young Individual Research, Grant A2084c0156. （参与者）
