@@ -14,20 +14,20 @@ main:
   #- title: "Teaching"
   #  url: /teaching/    
     
-  - title: "portfolio"
-   url: /portfolio/
+  # - title: "portfolio"
+  #  url: /portfolio/
 
-  - title: "研究方向"
-   url: /talks/    
+  # - title: "研究方向"
+  #  url: /talks/    
 
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "科研成果"
-   url: /cv/
+  # - title: "科研成果"
+  #  url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "学术兼职"
-   url: /markdown/
+  # - title: "学术兼职"
+  #  url: /markdown/
