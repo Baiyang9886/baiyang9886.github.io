@@ -14,8 +14,8 @@ main:
   #- title: "Teaching"
   #  url: /teaching/    
     
-  # - title: "portfolio"
-  #  url: /portfolio/
+  - title: "团队成员"
+   url: /portfolio/
 
   # - title: "研究方向"
   #  url: /talks/    
