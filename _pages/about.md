@@ -67,9 +67,9 @@ redirect_from:
 20.	Li Jingyuan, Yang Lie, Lv Chen, Yuan Chu, and Yahui Liu. GLF-STAF: A Global-Local-Facial Spatio-Temporal Attention Fusion Approach for Driver Emotion Recognition. IEEE Transactions on Consumer Electronics, DOI:10.1109/TCE.2025.3540321, IF=4.3, 中科院二区.
 21.	Lijun Liu, Lie Yang, Mengjie Zhu, Liqiang Zou, Chen Lv, Hui Ye, Machine Learning-Driven Predictive Modeling for Lipid Oxidation Stability in Emulsions: A Smart Food Safety Strategy, Trends in Food Science & Technology, 2025, 104972, ISSN 0924-2244, IF=15.1, 中科院一区，top 期刊.
 22.	Li, Jing, Jingyuan Li, Guo Yang, Lie Yang(通讯作者), Haozhuang Chi, and Lichao Yang(2025). "Applications of Large Language Models and Multimodal Large Models in Autonomous Driving: A Comprehensive Review" Drones 9, no. 4: 238. IF=4.4，中科院三区.
-23.	
-24.	Yi-Fan Kang, Lie Yang, Yi-Fan Hu, Kai Xu, Lan-Jun Cai, Bin-Bin Hu, Xiang Lu (2025). Self‐Attention Mechanisms‐Based Laryngoscopy Image Classification Technique for Laryngeal Cancer Detection. Head & Neck.IF=2.4, 中科院三区.
-25.	Liu Qingchao, Chen Siqi, Liu Guoqing, Yang Lie(通讯作者), Yuan Quan, Cai Yingfeng, and Chen Long (2025). Dual-perspective safety driver secondary task detection method based on swin-transformer and cross-attention. Advanced Engineering Informatics, 65, 103320, IF=8.0, 中科院一区, top期刊.
+23.	Yi-Fan Kang, Lie Yang, Yi-Fan Hu, Kai Xu, Lan-Jun Cai, Bin-Bin Hu, Xiang Lu (2025). Self‐Attention Mechanisms‐Based Laryngoscopy Image Classification Technique for Laryngeal Cancer Detection. Head & Neck.IF=2.4, 中科院三区.
+24.	Liu Qingchao, Chen Siqi, Liu Guoqing, Yang Lie(通讯作者), Yuan Quan, Cai Yingfeng, and Chen Long (2025). Dual-perspective safety driver secondary task detection method based on swin-transformer and cross-attention. Advanced Engineering Informatics, 65, 103320, IF=8.0, 中科院一区, top期刊.
+25.	Lie Yang, Henglai Wei, Zhongxu Hu and Chen Lv. “Domain Generalization Based on CLIP and Center Loss for Driver Distraction Detection”. Engineering Applications of Artificial Intelligence, 2025, IF=7.5, 中科院一区，top期刊. 
 
 科研项目
 ------
