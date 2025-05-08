@@ -71,7 +71,7 @@ redirect_from:
 23.	Yi-Fan Kang, **Lie Yang**, Yi-Fan Hu, Kai Xu, Lan-Jun Cai, Bin-Bin Hu, Xiang Lu (2025). Self‐Attention Mechanisms‐Based Laryngoscopy Image Classification Technique for Laryngeal Cancer Detection. Head & Neck.IF=2.4, 中科院三区.
 24.	Liu Qingchao, Chen Siqi, Liu Guoqing, **Yang Lie(通讯作者)**, Yuan Quan, Cai Yingfeng, and Chen Long (2025). Dual-perspective safety driver secondary task detection method based on swin-transformer and cross-attention. **Advanced Engineering Informatics**, 65, 103320, IF=8.0, **中科院一区, top期刊**.
 25.	**Lie Yang**, Henglai Wei, Zhongxu Hu and Chen Lv (2025). A domain generalization method for deploying driver distraction detection models to practical application scenarios. **Engineering Applications of Artificial Intelligence**, IF=7.5, **中科院一区，top期刊**.
-26.	**Lie Yang**, Haohan Yang, Xiangkun He, Wenhui Huang, and Chen Lyu (2025). Enhancing Task Incremental Continual Learning: Integrating Prompt-Based Feature Selection with Pre-trained Vision-Language Model, **Knowledge-Based Systems**, IF=7.2, **中科院一区，top期刊**.
+26.	**Lie Yang**, Haohan Yang, Xiangkun He, Wenhui Huang, and Chen Lv (2025). Enhancing Task Incremental Continual Learning: Integrating Prompt-Based Feature Selection with Pre-trained Vision-Language Model, **Knowledge-Based Systems**, IF=7.2, **中科院一区，top期刊**.
 
 
 科研项目
