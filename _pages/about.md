@@ -47,7 +47,7 @@ redirect_from:
 近五年的代表性论文
 ------
 1.	**Lie Yang**, Haohan Yang, Bin-Bin Hu, Yan Wang, Chen Lv. “A Robust Driver Emotion Recognition Method Based on High-Purity Feature Separation”. **IEEE Transactions on Intelligent Transportation Systems**, vol. 24, no. 12, pp. 15092-15104, Dec. 2023, IF=7.9, **中科院一区，top期刊**. 
-2.	**Lie Yang**, Haohan Yang, Henglai Wei, Zhongxu Hu and Chen Lv, "Video-Based Driver Drowsiness Detection with Optimised Utilization of Key Facial Features," in **IEEE Transactions on Intelligent Transportation Systems**, vol. 25, no. 7, pp. 6938-6950, July 2024, IF=7.9, **中科院一区，top期刊**.
+2.	**Lie Yang**, Haohan Yang, Henglai Wei, Zhongxu Hu and Chen Lv, "Video-Based Driver Drowsiness Detection with Optimised Utilization of Key Facial Features," in **IEEE Transactions on Intelligent Transportation Systems**, vol. 25, no. 7, pp. 6938-6950, July 2024, IF=7.9, **中科院一区，top期刊，ESI高被引论文，热点论文**.
 3.	**Lie Yang**, Yong Tian, Yonghao Song, Nachuan Yang, Ke Ma, Longhan Xie, “A novel feature separation model exchange-GAN for facial expression recognition”, **Knowledge-Based Systems**, Vol 204, 2020.09, 106217, IF=7.2, **中科院一区，top期刊**. 
 4.	**Lie Yang**, Yonghao Song, Ke Ma, Longhan Xie, “Motor Imagery EEG Decoding Method Based on a Discriminative Feature Learning Strategy”， IEEE Transactions on Neural System and Rehabilitation Engineering, Vol 29, 2021, IF=4.8, Page(368-379)，中科院二区.  
 5.	**Lie Yang**, Yonghao Song, Ke Ma, Enze Su, Longhan Xie, “A Novel Motor Imagery EEG Decoding Method Based on Feature Separation”， Journal of Neural Engineering, 2021, Vol 18, 036022，IF=3.7，中科院二区. 
