@@ -72,7 +72,7 @@ redirect_from:
 24.	Liu Qingchao, Chen Siqi, Liu Guoqing, **Yang Lie(通讯作者)**, Yuan Quan, Cai Yingfeng, and Chen Long (2025). Dual-perspective safety driver secondary task detection method based on swin-transformer and cross-attention. **Advanced Engineering Informatics**, 65, 103320, IF=8.0, **中科院一区, top期刊**.
 25.	**Lie Yang**, Henglai Wei, Zhongxu Hu and Chen Lv (2025). A domain generalization method for deploying driver distraction detection models to practical application scenarios. **Engineering Applications of Artificial Intelligence**, Volume 152, 15 July 2025, 110844，IF=7.5, **中科院一区，top期刊**.
 26.	**Lie Yang**, Haohan Yang, Xiangkun He, Wenhui Huang, and Chen Lv (2025). Enhancing Task Incremental Continual Learning: Integrating Prompt-Based Feature Selection with Pre-trained Vision-Language Model, **Knowledge-Based Systems**, Volume 320, 23 June 2025, 113704，IF=7.2, **中科院一区，top期刊**.
-27.	Weihong Cen, Chupeng Su, Kainuo Cen, Lie Yang, Gang Chen, Longhan Xie (2025). A dual spatial temporal neural network for bottleneck prediction in manufacturing systems,  **Knowledge-Based Systems**, Volume 159, 1 November 2025, 111586，IF=7.2, **中科院一区，top期刊**.
+27.	Weihong Cen, Chupeng Su, Kainuo Cen, **Lie Yang**, Gang Chen, Longhan Xie (2025). A dual spatial temporal neural network for bottleneck prediction in manufacturing systems,  **Knowledge-Based Systems**, Volume 159, 1 November 2025, 111586，IF=7.2, **中科院一区，top期刊**.
 
 
 科研项目
